@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+    
+}
+
+.dropdown-menu {
+    background-color:#535353 !important;
+    border: 0px;
+}
+.dropdown-menu a:hover{
+    background-color:#fff ;
+    color: #535353 !important;
+}
+.navbarcolor{
+    background-color: #535353 !important;
+
+}
+.container ul li a{
+    color: #fff !important ;
+    font-weight: bolder;
+}
+.container ul li i{
+    font-size: larger;
+}
+
+
+
+.maincard{
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.shipping,.money,.security,.support{
+    box-shadow:2px 4px 5px grey;
+    width: 300px;
+    padding: 40px 0px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+.maincard div{
+    display: block ;
+    margin: 10px 0px;
+    color: #337AB7;
+}
+.h5 .card-text{
+    font-weight:bold;
+}
+.btn-primary{
+    background-color: #535353;
+    border-color: #535353;
+    width: 100%;
+}
+.featuredproduct .card{
+    width:250px;
+    height: auto !important;
+    margin: 10px 0px;
+    display: flex;
+    align-self: flex-end;
+    border: none;
+}
+.card01{
+margin: 10px 0px !important;
+
+    
+}
+
+.footer{
+    background-color: #333333;
+    color: #fff;
+
+}
+.footer02 li {
+    list-style: none;
+}
+.footer01 ul li{
+    list-style: none;
+    margin-left: 20px;
+}
+
+.footerlast ul li{
+    display:inline-block;
+    padding:5px;
+    margin-left: 5px;
+
+    list-style:  none;
+    
+}
+.endfooter{
+    background-color: #337AB7;
+}
+
+
+
+
